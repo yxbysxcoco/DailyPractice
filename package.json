@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1",
+    "vuepress": "^1.0.0"
+  },
+  "dependencies": {
+    "webpack-dev-middleware": "3.6.0"
+  },
+  "resolutions": {
+    "webpack-dev-middleware": "3.6.0"
+  }
+}
